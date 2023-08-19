@@ -1,20 +1,56 @@
-### Hi there 👋
-Experienced Full Stack Developer with a passion for crafting exceptional web applications. With over 8 years of hands-on experience, I have successfully 
-developed and deployed projects using a diverse range of technologies, with a particular focus on WordPress, Laravel, and PHP.
+<h2 align="left">Hi 👋! My name is Abanob Adel and I'm a Full Stack Developer, from Egypt</h2>
 
-In my journey as a developer, I have become highly proficient in leveraging WordPress to build powerful, customizable, and user-friendly websites. I specialize in theme development, plugin customization, and optimizing WordPress for performance and SEO. My in-depth understanding of WordPress's core functionality, theme frameworks, and popular plugins enables me to deliver tailored solutions that meet clients' unique requirements.
+###
 
-Furthermore, I possess extensive experience in Laravel, a robust PHP framework renowned for its elegance and scalability. I have utilized Laravel's features to architect and develop web applications with complex functionalities, RESTful APIs, and database management systems. With Laravel, I ensure efficient code structure, maintainability, and security.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abanob0adel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
 
-My expertise extends beyond WordPress and Laravel, encompassing a broad spectrum of PHP development. I have successfully built and maintained various custom web applications, utilizing PHP's versatility and power. Whether it's crafting dynamic web pages, integrating databases, or developing APIs, I am adept at creating efficient and scalable solutions.
+###
 
-Throughout my career, I have consistently delivered high-quality projects by following best practices, adhering to coding standards, and staying updated with the latest industry trends. I am passionate about clean code, modular architecture, and continuous learning.
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/120092913?v=4"  />
 
-Collaboration and effective communication are at the core of my work ethos. I have collaborated with cross-functional teams, designers, and stakeholders to deliver projects on time and within budget. My adaptability, problem-solving skills, and attention to detail have enabled me to overcome challenges and provide effective solutions throughout the software development lifecycle.
+###
 
-If you're seeking a dedicated and versatile Full Stack Developer with extensive experience in WordPress, Laravel, and PHP, let's connect! I am open to exciting opportunities that allow me to utilize my skills and contribute to innovative projects.
-<!--
-**abanob0adel/abanob0adel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="30" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Magento-EE672F?logo=magento&logoColor=black&style=for-the-badge" height="30" alt="magento logo"  />
+</div>
 
+###
 
--->
+<div align="left">
+  <a href="https://www.instagram.com/abanob.adel_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/abanob0adel/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/abanob0adel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://abanob.co" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Web site&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/abanob0adel/abanob0adel/output/snake.svg" alt="Snake animation" />
+
+###
