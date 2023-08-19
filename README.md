@@ -49,8 +49,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/abanob0adel/abanob0adel/output/snake.svg" alt="Snake animation" />
 
 ###
