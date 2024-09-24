@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/static/v1?message=Web site&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
   </a>
 </div>
-
+<a href="https://app.daily.dev/abanobadel"><img src="https://api.daily.dev/devcards/v2/chmVCqgFEeFXERuW4YWvF.png?type=wide&r=ssw" width="652" alt="Abanob Adel's Dev Card"/></a>
 ###
 
 
